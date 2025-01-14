@@ -348,7 +348,7 @@ flann:
 flatbuffers:
   - 24.3.25
 fmt:
-  - '10'
+  - '11'
 fontconfig:
   - 2
 freetype:
